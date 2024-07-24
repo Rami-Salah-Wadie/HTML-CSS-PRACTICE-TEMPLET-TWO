@@ -88,6 +88,9 @@
 
 
 /* 2- Genneral Css style */
+html{
+    scroll-behavior: smooth;
+}
 *{
     margin: 0;
     padding: 0;
